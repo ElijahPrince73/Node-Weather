@@ -7,6 +7,7 @@
   "author": "Elijah Prince <elijahprince73@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "request": "^2.83.0"
+    "request": "^2.83.0",
+    "yargs": "^10.1.1"
   }
 }
